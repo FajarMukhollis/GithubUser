@@ -6,9 +6,7 @@
 - Using RecyclerView
 - Use ConstraintLayout to structure the List Item view for the RecyclerView.
 - There is detailed information from a user. Here is some information that must be displayed on the application page:
-Username
-Name
-Avatars
+*Username, Name, Avatars*
 - Splash screen
 
 # Preview
