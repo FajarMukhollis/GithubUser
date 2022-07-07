@@ -1,6 +1,6 @@
 # GithubUser
 
-# Feature
+## Feature
 
 - Show 10 User
 - Using RecyclerView
